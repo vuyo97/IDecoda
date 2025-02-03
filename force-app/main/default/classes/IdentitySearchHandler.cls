@@ -1,4 +1,4 @@
-public class IdentitySearchHandler {
+public without sharing class IdentitySearchHandler {
     @AuraEnabled(cacheable=false)  
     public static Map<String,String> processIDSearch(String idNumber, String dateOfBirth) {
         Map<String,String>  holidayList = new Map<String,String>();
