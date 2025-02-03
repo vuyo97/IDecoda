@@ -1,0 +1,10 @@
+.slds-box {
+    margin-bottom: 8px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.slds-modal__container {
+    max-width: 600px;
+    transform: 1s fade-in;
+}

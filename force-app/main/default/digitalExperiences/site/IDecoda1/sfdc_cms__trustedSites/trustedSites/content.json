@@ -1,0 +1,12 @@
+{
+  "type" : "sfdc_cms__trustedSites",
+  "title" : "trustedSites",
+  "contentBody" : {
+    "trustedSites" : [ {
+      "isActive" : true,
+      "source" : "https://curious-goat-at2bmx-dev-ed.trailblaze.my.site.com/resource/SiteSamples/img/",
+      "sourceName" : "GuestUserStaticResources"
+    } ]
+  },
+  "urlName" : "trustedsites"
+}
